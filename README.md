@@ -1,2 +1,3 @@
-# hello-world
-Just another repository
+# hello-world!
+Commit means saved changes!
+Interesting!
